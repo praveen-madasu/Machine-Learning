@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  9 17:59:29 2019
-
-@author: prave
-"""
-
-
 # Implementing Simple Linear Regression
 
 # Import libraries
