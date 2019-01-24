@@ -8,3 +8,4 @@ Regression Models
 
 Classification Models
 1) Logistic Regression
+2) K Nearest Neighbors
